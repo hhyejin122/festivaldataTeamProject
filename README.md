@@ -1,5 +1,3 @@
-# festivaldata
-
 # 팀 프로젝트
 R Studio를 활용한 팀 프로젝트입니다.
 
